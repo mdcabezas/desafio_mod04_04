@@ -5,7 +5,9 @@
 
 ***
 
-[![Video Explicativo] (https://youtu.be/_ObRnM-Sezk "Video Explicativo")
+[![Video Explicativo]
+(https://github.com/mdcabezas/desafio_mod04_04/blob/master/public/screenshot3.jpg)]
+(https://youtu.be/_ObRnM-Sezk "Video Explicativo")
 
 ***
 
@@ -15,3 +17,4 @@ En el directorio del programa puede ejecutar:
 
 Ejecuta la aplicación en modo desarroollo.\
 Abra [http://localhost:3000](http://localhost:3000) para ver en su navegador.
+
