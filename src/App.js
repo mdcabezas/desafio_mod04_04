@@ -1,7 +1,9 @@
+import MyApi from "./components/MyApi";
+
 function App() {
   return (
     <div>
- APP - INITIAL
+      <MyApi />
     </div>
   );
 }
