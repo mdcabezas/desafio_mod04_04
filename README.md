@@ -5,9 +5,7 @@
 
 ***
 
-[![Video Explicativo]
-(https://github.com/mdcabezas/desafio_mod04_04/blob/master/public/screenshot3.jpg)]
-(https://youtu.be/_ObRnM-Sezk "Video Explicativo")
+[<img src="https://github.com/mdcabezas/desafio_mod04_04/blob/master/public/screenshot3.jpg" width="50%">](https://youtu.be/_ObRnM-Sezk "Video Explicativo")
 
 ***
 
